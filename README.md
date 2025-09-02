@@ -1,6 +1,16 @@
 # Roman Kos AI Agent Portfolio
 
-Welcome to my comprehensive collection of AI agents designed to transform how you work, think, and grow. As an AI strategist and MindStudio Certified AI Agent Builder and Partner, I've created these intelligent tools to bridge the gap between human creativity and artificial intelligence, empowering you to achieve clarity, efficiency, and meaningful impact in your personal and professional journey.
+A comprehensive suite of custom AI agents designed to transform how you work, think, and grow.
+
+As an AI strategist, consultant, and MindStudio Certified AI Agent Builder & Partner, I help founders, consultants, SME leaders, and small business owners turn AI into a practical advantage.
+
+These intelligent tools are built to:
+✨ Bridge the gap between human creativity and AI capabilities
+⚡ Unlock clarity, efficiency, and innovation in your daily work
+🌍 Drive business transformation with measurable ROI
+💡 Inspire meaningful impact across personal and professional journeys
+
+Whether you need a strategic AI blueprint, a tailored automation, or a proof-of-concept for your next big idea, my portfolio of agents empowers you to move faster, think bigger, and innovate responsibly.
 
 ---
 
